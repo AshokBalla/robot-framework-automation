@@ -1,0 +1,152 @@
+# Maintenance Log
+
+- Initial framework setup for robotframework-tests
+- Add baseline documentation and repository hygiene for robotframework-tests
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
+- refactor(robotframework-tests): refresh reusable data for table assertion helper
+- chore(robotframework-tests): record maintenance update for teardown diagnostics
+- test(robotframework-tests): add smoke coverage for login keyword reuse
+- test(robotframework-tests): expand regression suite for employee search keyword
+- feat(robotframework-tests): add reusable workflow support for leave balance api check
+- docs(robotframework-tests): document execution behavior for data driven login matrix
+- chore(robotframework-tests): extend environment controls for browser bootstrap fixture
+- ci(robotframework-tests): publish diagnostics for request session header reuse
